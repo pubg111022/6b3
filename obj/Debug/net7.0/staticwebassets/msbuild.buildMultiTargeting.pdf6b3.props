@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\pdf6b3.props" />
+</Project>

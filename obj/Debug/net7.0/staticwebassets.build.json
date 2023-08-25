@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "XWgO6QGFX8iQghrpUKGEhix1KO8X3RN3ak1W4Aup3MI=",
+  "Source": "pdf6b3",
+  "BasePath": "_content/pdf6b3",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "pdf6b3\\wwwroot",
+      "Source": "pdf6b3",
+      "ContentRoot": "C:\\Users\\vanda\\source\\repos\\pdf6b3\\pdf6b3\\wwwroot\\",
+      "BasePath": "_content/pdf6b3",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
